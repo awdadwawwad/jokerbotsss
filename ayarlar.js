@@ -1,9 +1,9 @@
 ﻿module.exports = {
 
-    token: "",
+    token: "MTIwODQ5NzMwODg0OTgwMzM5NQ.GWaLOP.V_wYojDlkJGjsEARX7LfsRzklsnlr2jAFxRFcg",
     prefix: ".",
-    sahip: "1050457800054153256",
-    durum: ".gg/mernistr",
+    sahip: "1115076467785744476",
+    durum: ".gg/sparkss",
 
     api: {
         TCKN: "http://141.95.12.114/zirvedebiraktik/tc.php?auth_token=qwertyzz&",
